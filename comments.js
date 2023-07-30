@@ -11,4 +11,4 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var app = express();
-var comments = [{author: 'Scott', text: 'This is my comment'},];
+var comments = [{author: 'Scott', text: 'This is my comment'}];
